@@ -2,8 +2,9 @@
 # coding: utf-8
 
 # In[121]:
-
+# import libraries here
 import seaborn as sns
+
 from datetime import datetime, timedelta,date
 import pandas as pd
 #%matplotlib inline

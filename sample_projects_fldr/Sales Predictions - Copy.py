@@ -4,6 +4,8 @@
 # In[121]:
 # import libraries here
 import seaborn as sns
+import tweepy
+import dash
 
 from datetime import datetime, timedelta,date
 import pandas as pd
